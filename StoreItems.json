@@ -1406,7 +1406,7 @@
 	},
 	{
 		"abr": "bumbledroneegg(fert.)",
-		"price": -10,
+		"price": 10,
 		"category": "Eggs (fert.)",
 		"defname": "AA_BumbledroneQueenEggFertilized"
 	},
@@ -9716,7 +9716,7 @@
 	},
 	{
 		"abr": "cleaningbot",
-		"price": 17,
+		"price": 50,
 		"category": "Animal",
 		"defname": "AIRobot_Cleaner"
 	},
@@ -9884,7 +9884,7 @@
 	},
 	{
 		"abr": "haulingbot",
-		"price": 17,
+		"price": 50,
 		"category": "Animal",
 		"defname": "AIRobot_Hauler"
 	},
@@ -10568,7 +10568,7 @@
 	},
 	{
 		"abr": "adaptivedrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Adaptive_Drone"
 	},
@@ -10586,7 +10586,7 @@
 	},
 	{
 		"abr": "adaptivequeen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Adaptive_Queen"
 	},
@@ -10616,7 +10616,7 @@
 	},
 	{
 		"abr": "agriculturaldrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Agricultural_Drone"
 	},
@@ -10628,7 +10628,7 @@
 	},
 	{
 		"abr": "agriculturalqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Agricultural_Queen"
 	},
@@ -10724,7 +10724,7 @@
 	},
 	{
 		"abr": "alloydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Alloy_Drone"
 	},
@@ -10736,13 +10736,13 @@
 	},
 	{
 		"abr": "alloyqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Alloy_Queen"
 	},
 	{
 		"abr": "amalgamdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Amalgam_Drone"
 	},
@@ -10754,7 +10754,7 @@
 	},
 	{
 		"abr": "amalgamqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Amalgam_Queen"
 	},
@@ -10772,7 +10772,7 @@
 	},
 	{
 		"abr": "arcticdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Arctic_Drone"
 	},
@@ -10784,13 +10784,13 @@
 	},
 	{
 		"abr": "arcticqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Arctic_Queen"
 	},
 	{
 		"abr": "argentdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Argent_Drone"
 	},
@@ -10802,7 +10802,7 @@
 	},
 	{
 		"abr": "argentqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Argent_Queen"
 	},
@@ -10838,7 +10838,7 @@
 	},
 	{
 		"abr": "aurumdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Aurum_Drone"
 	},
@@ -10850,7 +10850,7 @@
 	},
 	{
 		"abr": "aurumqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Aurum_Queen"
 	},
@@ -11090,7 +11090,7 @@
 	},
 	{
 		"abr": "bittersweetdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Bittersweet_Drone"
 	},
@@ -11102,7 +11102,7 @@
 	},
 	{
 		"abr": "bittersweetqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Bittersweet_Queen"
 	},
@@ -11114,7 +11114,7 @@
 	},
 	{
 		"abr": "blackdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Black_Drone"
 	},
@@ -11132,7 +11132,7 @@
 	},
 	{
 		"abr": "blackqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Black_Queen"
 	},
@@ -11240,7 +11240,7 @@
 	},
 	{
 		"abr": "cactusdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Cactus_Drone"
 	},
@@ -11252,7 +11252,7 @@
 	},
 	{
 		"abr": "cactusqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Cactus_Queen"
 	},
@@ -11276,7 +11276,7 @@
 	},
 	{
 		"abr": "chefdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Chef_Drone"
 	},
@@ -11288,7 +11288,7 @@
 	},
 	{
 		"abr": "chefqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Chef_Queen"
 	},
@@ -11336,7 +11336,7 @@
 	},
 	{
 		"abr": "culinarydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Culinary_Drone"
 	},
@@ -11348,7 +11348,7 @@
 	},
 	{
 		"abr": "culinaryqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Culinary_Queen"
 	},
@@ -11378,7 +11378,7 @@
 	},
 	{
 		"abr": "desertdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Desert_Drone"
 	},
@@ -11402,7 +11402,7 @@
 	},
 	{
 		"abr": "desertqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Desert_Queen"
 	},
@@ -11420,7 +11420,7 @@
 	},
 	{
 		"abr": "devildrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Devil_Drone"
 	},
@@ -11432,7 +11432,7 @@
 	},
 	{
 		"abr": "devilqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Devil_Queen"
 	},
@@ -11450,7 +11450,7 @@
 	},
 	{
 		"abr": "egglayingdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Egglaying_Drone"
 	},
@@ -11462,13 +11462,13 @@
 	},
 	{
 		"abr": "egglayingqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Egglaying_Queen"
 	},
 	{
 		"abr": "electronicdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Electronic_Drone"
 	},
@@ -11480,7 +11480,7 @@
 	},
 	{
 		"abr": "electronicqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Electronic_Queen"
 	},
@@ -11504,7 +11504,7 @@
 	},
 	{
 		"abr": "feraldrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Feral_Drone"
 	},
@@ -11516,7 +11516,7 @@
 	},
 	{
 		"abr": "feralqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Feral_Queen"
 	},
@@ -11534,7 +11534,7 @@
 	},
 	{
 		"abr": "fisherdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Fisher_Drone"
 	},
@@ -11546,7 +11546,7 @@
 	},
 	{
 		"abr": "fisherqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Fisher_Queen"
 	},
@@ -11600,7 +11600,7 @@
 	},
 	{
 		"abr": "forsakendrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Forsaken_Drone"
 	},
@@ -11612,13 +11612,13 @@
 	},
 	{
 		"abr": "forsakenqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Forsaken_Queen"
 	},
 	{
 		"abr": "frostydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Frosty_Drone"
 	},
@@ -11630,13 +11630,13 @@
 	},
 	{
 		"abr": "frostyqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Frosty_Queen"
 	},
 	{
 		"abr": "fungaldrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Fungal_Drone"
 	},
@@ -11648,7 +11648,7 @@
 	},
 	{
 		"abr": "fungalqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Fungal_Queen"
 	},
@@ -11726,7 +11726,7 @@
 	},
 	{
 		"abr": "heavymagicaldrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_HeavyMagical_Drone"
 	},
@@ -11738,7 +11738,7 @@
 	},
 	{
 		"abr": "heavymagicalqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_HeavyMagical_Queen"
 	},
@@ -11750,7 +11750,7 @@
 	},
 	{
 		"abr": "highdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_High_Drone"
 	},
@@ -11762,7 +11762,7 @@
 	},
 	{
 		"abr": "highqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_High_Queen"
 	},
@@ -11864,7 +11864,7 @@
 	},
 	{
 		"abr": "hybriddrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Hybrid_Drone"
 	},
@@ -11876,7 +11876,7 @@
 	},
 	{
 		"abr": "hybridqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Hybrid_Queen"
 	},
@@ -11888,7 +11888,7 @@
 	},
 	{
 		"abr": "hyperdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Hyper_Drone"
 	},
@@ -11900,7 +11900,7 @@
 	},
 	{
 		"abr": "hyperqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Hyper_Queen"
 	},
@@ -11918,7 +11918,7 @@
 	},
 	{
 		"abr": "insectoiddrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Insectoid_Drone"
 	},
@@ -11930,7 +11930,7 @@
 	},
 	{
 		"abr": "insectoidqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Insectoid_Queen"
 	},
@@ -12014,7 +12014,7 @@
 	},
 	{
 		"abr": "lacticdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Lactic_Drone"
 	},
@@ -12026,7 +12026,7 @@
 	},
 	{
 		"abr": "lacticqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Lactic_Queen"
 	},
@@ -12044,7 +12044,7 @@
 	},
 	{
 		"abr": "legendarydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Legendary_Drone"
 	},
@@ -12056,13 +12056,13 @@
 	},
 	{
 		"abr": "legendaryqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Legendary_Queen"
 	},
 	{
 		"abr": "lightmagicaldrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_LightMagical_Drone"
 	},
@@ -12074,7 +12074,7 @@
 	},
 	{
 		"abr": "lightmagicalqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_LightMagical_Queen"
 	},
@@ -12086,7 +12086,7 @@
 	},
 	{
 		"abr": "luciferdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Lucifer_Drone"
 	},
@@ -12098,13 +12098,13 @@
 	},
 	{
 		"abr": "luciferqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Lucifer_Queen"
 	},
 	{
 		"abr": "luxuriousdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Luxurious_Drone"
 	},
@@ -12116,7 +12116,7 @@
 	},
 	{
 		"abr": "luxuriousqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Luxurious_Queen"
 	},
@@ -12494,7 +12494,7 @@
 	},
 	{
 		"abr": "medicinaldrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Medicinal_Drone"
 	},
@@ -12506,13 +12506,13 @@
 	},
 	{
 		"abr": "medicinalqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Medicinal_Queen"
 	},
 	{
 		"abr": "milddrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Mild_Drone"
 	},
@@ -12524,7 +12524,7 @@
 	},
 	{
 		"abr": "mildqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Mild_Queen"
 	},
@@ -12674,7 +12674,7 @@
 	},
 	{
 		"abr": "neutrodrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Neutro_Drone"
 	},
@@ -12686,7 +12686,7 @@
 	},
 	{
 		"abr": "neutroqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Neutro_Queen"
 	},
@@ -12698,7 +12698,7 @@
 	},
 	{
 		"abr": "nitrodrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Nitro_Drone"
 	},
@@ -12710,13 +12710,13 @@
 	},
 	{
 		"abr": "nitroqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Nitro_Queen"
 	},
 	{
 		"abr": "nocturnaldrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Nocturnal_Drone"
 	},
@@ -12728,7 +12728,7 @@
 	},
 	{
 		"abr": "nocturnalqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Nocturnal_Queen"
 	},
@@ -12752,7 +12752,7 @@
 	},
 	{
 		"abr": "nutritiousdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Nutritious_Drone"
 	},
@@ -12764,13 +12764,13 @@
 	},
 	{
 		"abr": "nutritiousqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Nutritious_Queen"
 	},
 	{
 		"abr": "oculardrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Ocular_Drone"
 	},
@@ -12782,7 +12782,7 @@
 	},
 	{
 		"abr": "ocularqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Ocular_Queen"
 	},
@@ -12794,7 +12794,7 @@
 	},
 	{
 		"abr": "oilydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Oily_Drone"
 	},
@@ -12806,7 +12806,7 @@
 	},
 	{
 		"abr": "oilyqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Oily_Queen"
 	},
@@ -12860,7 +12860,7 @@
 	},
 	{
 		"abr": "petdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Pet_Drone"
 	},
@@ -12872,7 +12872,7 @@
 	},
 	{
 		"abr": "petqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Pet_Queen"
 	},
@@ -12884,7 +12884,7 @@
 	},
 	{
 		"abr": "plasticdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Plastic_Drone"
 	},
@@ -12896,7 +12896,7 @@
 	},
 	{
 		"abr": "plasticqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Plastic_Queen"
 	},
@@ -12920,7 +12920,7 @@
 	},
 	{
 		"abr": "preciousdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Precious_Drone"
 	},
@@ -12932,7 +12932,7 @@
 	},
 	{
 		"abr": "preciousqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Precious_Queen"
 	},
@@ -12944,7 +12944,7 @@
 	},
 	{
 		"abr": "psychicdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Psychic_Drone"
 	},
@@ -12956,7 +12956,7 @@
 	},
 	{
 		"abr": "psychicqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Psychic_Queen"
 	},
@@ -12974,7 +12974,7 @@
 	},
 	{
 		"abr": "radioactivedrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Radioactive_Drone"
 	},
@@ -12986,7 +12986,7 @@
 	},
 	{
 		"abr": "radioactivequeen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Radioactive_Queen"
 	},
@@ -13208,7 +13208,7 @@
 	},
 	{
 		"abr": "skydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Sky_Drone"
 	},
@@ -13220,13 +13220,13 @@
 	},
 	{
 		"abr": "skyqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Sky_Queen"
 	},
 	{
 		"abr": "slimydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Slimy_Drone"
 	},
@@ -13238,13 +13238,13 @@
 	},
 	{
 		"abr": "slimyqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Slimy_Queen"
 	},
 	{
 		"abr": "slurrydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Slurry_Drone"
 	},
@@ -13256,7 +13256,7 @@
 	},
 	{
 		"abr": "slurryqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Slurry_Queen"
 	},
@@ -13340,7 +13340,7 @@
 	},
 	{
 		"abr": "stonerdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Stoner_Drone"
 	},
@@ -13352,13 +13352,13 @@
 	},
 	{
 		"abr": "stonerqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Stoner_Queen"
 	},
 	{
 		"abr": "strawdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Straw_Drone"
 	},
@@ -13370,7 +13370,7 @@
 	},
 	{
 		"abr": "strawqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Straw_Queen"
 	},
@@ -13388,7 +13388,7 @@
 	},
 	{
 		"abr": "surgeondrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Surgeon_Drone"
 	},
@@ -13400,7 +13400,7 @@
 	},
 	{
 		"abr": "surgeonqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Surgeon_Queen"
 	},
@@ -13418,7 +13418,7 @@
 	},
 	{
 		"abr": "swampdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Swamp_Drone"
 	},
@@ -13430,13 +13430,13 @@
 	},
 	{
 		"abr": "swampqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Swamp_Queen"
 	},
 	{
 		"abr": "syntheticdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Synthetic_Drone"
 	},
@@ -13448,7 +13448,7 @@
 	},
 	{
 		"abr": "syntheticqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Synthetic_Queen"
 	},
@@ -13460,7 +13460,7 @@
 	},
 	{
 		"abr": "tannerdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Tanner_Drone"
 	},
@@ -13472,7 +13472,7 @@
 	},
 	{
 		"abr": "tannerqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Tanner_Queen"
 	},
@@ -13490,7 +13490,7 @@
 	},
 	{
 		"abr": "technologicaldrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Technological_Drone"
 	},
@@ -13502,13 +13502,13 @@
 	},
 	{
 		"abr": "technologicalqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Technological_Queen"
 	},
 	{
 		"abr": "temperatedrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Temperate_Drone"
 	},
@@ -13520,7 +13520,7 @@
 	},
 	{
 		"abr": "temperatequeen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Temperate_Queen"
 	},
@@ -13532,7 +13532,7 @@
 	},
 	{
 		"abr": "tipsydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Tipsy_Drone"
 	},
@@ -13544,7 +13544,7 @@
 	},
 	{
 		"abr": "tipsyqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Tipsy_Queen"
 	},
@@ -13658,7 +13658,7 @@
 	},
 	{
 		"abr": "weavingdrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Weaving_Drone"
 	},
@@ -13670,7 +13670,7 @@
 	},
 	{
 		"abr": "weavingqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Weaving_Queen"
 	},
@@ -13700,7 +13700,7 @@
 	},
 	{
 		"abr": "woodlanddrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Woodland_Drone"
 	},
@@ -13712,13 +13712,13 @@
 	},
 	{
 		"abr": "woodlandqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Woodland_Queen"
 	},
 	{
 		"abr": "woolydrone",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Wooly_Drone"
 	},
@@ -13730,7 +13730,7 @@
 	},
 	{
 		"abr": "woolyqueen",
-		"price": -10,
+		"price": 50,
 		"category": "Drones and queens",
 		"defname": "RB_Bee_Wooly_Queen"
 	},
@@ -18463,23 +18463,155 @@
 		"defname": "Meat_Yutyrannus"
 	},
 	{
-		"abr": "zombieextract",
-		"price": 17,
-		"category": "Serum",
-		"defname": "ZombieExtract"
+		"abr": "builder(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_I"
 	},
 	{
-		"abr": "zombiemeat",
-		"price": 3,
-		"category": "Meat",
-		"defname": "Meat_Zombie"
+		"abr": "builder(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_II"
 	},
 	{
-		"abr": "zombieserum10%",
-		"price": 200,
-		"category": "Serum",
-		"defname": "Zombie10Serum"
+		"abr": "builder(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_III"
+	},
+	{
+		"abr": "builder(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_IV"
+	},
+	{
+		"abr": "builder(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Builder_V"
+	},
+	{
+		"abr": "cleaner(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_II"
+	},
+	{
+		"abr": "cleaner(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_III"
+	},
+	{
+		"abr": "cleaner(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_IV"
+	},
+	{
+		"abr": "cleaner(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Cleaner_V"
+	},
+	{
+		"abr": "crafter(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_I"
+	},
+	{
+		"abr": "crafter(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_II"
+	},
+	{
+		"abr": "crafter(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_III"
+	},
+	{
+		"abr": "crafter(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_IV"
+	},
+	{
+		"abr": "crafter(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Crafter_V"
+	},
+	{
+		"abr": "er(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_I"
+	},
+	{
+		"abr": "er(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_II"
+	},
+	{
+		"abr": "er(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_III"
+	},
+	{
+		"abr": "er(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_IV"
+	},
+	{
+		"abr": "er(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_ER_V"
+	},
+	{
+		"abr": "hauler(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_II"
+	},
+	{
+		"abr": "hauler(iii)basestation",
+		"price": 4533,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_III"
+	},
+	{
+		"abr": "hauler(iv)basestation",
+		"price": 9417,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_IV"
+	},
+	{
+		"abr": "hauler(v)basestation",
+		"price": 19092,
+		"category": "Furniture",
+		"defname": "AIRobot_RechargeStation_Hauler_V"
+	},
+	{
+		"abr": "kitchen(i)basestation",
+		"price": 833,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_I"
+	},
+	{
+		"abr": "kitchen(ii)basestation",
+		"price": 2058,
+		"category": "Furniture",
+		"defname": "RPP_RechargeStation_Kitchen_II"
 	}
 	],
-	"total": 3101
+	"total": 3115
 }
